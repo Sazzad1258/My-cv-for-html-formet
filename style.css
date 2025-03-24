@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #362e2e3b;
+}
+.container {
+    max-width: 800px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+    color: #0c0b0b;
+    background-color: rgb(127, 131, 133);
+}
+.section {
+    margin-bottom: 20px;
+}
+.contact-info {
+    background: #eee;
+    padding: 10px;
+}
